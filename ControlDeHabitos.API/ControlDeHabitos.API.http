@@ -1,0 +1,6 @@
+@ControlDeHabitos.API_HostAddress = http://localhost:5155
+
+GET {{ControlDeHabitos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
