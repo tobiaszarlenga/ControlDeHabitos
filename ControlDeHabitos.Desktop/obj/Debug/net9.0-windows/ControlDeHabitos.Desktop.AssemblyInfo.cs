@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlDeHabitos.Desktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d28600d70c5da8508b84b17e4d2f55d3bce9d4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1b4decadcd8bf0874c5d76712c35c3c42a4037d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlDeHabitos.Desktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlDeHabitos.Desktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
