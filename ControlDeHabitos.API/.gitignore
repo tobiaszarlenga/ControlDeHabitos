@@ -1,0 +1,24 @@
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.dbmdl
+*.bak
+*.tmp
+*.obj
+*.exe
+*.dll
+*.json.user
+bin/
+obj/
+TestResults/
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+
+# OS
+.DS_Store
+Thumbs.db
